@@ -56,11 +56,12 @@ Altres Característiques: Suport per a bases de dades
 
 
 
+| Proveïdor| Pàgina web del Proveïdor| Espai d'emmagatzematge| Ample de banda| Dominis i Subdominis| Certificat SSL | Publicitat | Altres Característiques|
+
+| Wix            | [Wix.com]          | 500 MB       | 500 MB         | Domini personalitzat   | Sí    | Sí  | Suport per a WordPress         |
+| HubSpot        | [HubSpot.com]      | 1 GB         | 10 GB          | Domini personalitzat   | Sí    | No  | Integració amb CRM             |
+| Hostinger      | [Hostinger.com]    | 300 MB       | 1 GB           | Subdomini              | No    | No  | Suport per a WordPress         |
+| 000Webhost     | [000webhost.com]   | 1 GB         | 10 GB          | Subdomini              | No    | Sí  | Suport per a CMS               |
+| InfinityFree   | [InfinityFree.net] | 10 GB        | 50 GB          | Subdomini              | No    | Sí  | Suport per a bases de dades    |
 
 
-| Proveïdor      | Espai d'emmagatzematge | Ample de banda | Dominis i Subdominis | Certificat SSL | Publicitat | Altres Característiques     |
-| 000Webhost     | 1GB                    | 10 GB          | Subdomini            | No             | No         | Suport per a WordPress      |
-| Wix            | 500 MB                 | 500 MB         | Domini personalitzat | Sí             | Sí         | Suport per a WordPress      |
-| HubSpot        | 1 GB                   | 10 GB          | Domini personalitzat | Si             | No         | Integració amb CRM          |
-| Hostinger      | 300 MB                 | 1 GB           | Subdomini            | NO             | No         | Suport per a WordPress      |
-| InfinityFree   | 10 GB                  | 50 GB          | Subdomini            | No             | Si         | Suport per a bases de dades |
